@@ -1,5 +1,6 @@
-name=Spawn at Last Bed
+name=Spawn at Last Slept Location
 poster=poster.png
 id=lastBedSpawn
-description=Lets you spawn at the last bed slept at
-url=http://theindiestone.com/forums/index.php/topic/2011-how-to-use-the-upcoming-modloader/
+description=Lets you spawn at the location you last slept at, if no location is detected you'll spawn in Muldraugh, KY.
+url=
+versionMin=41.65

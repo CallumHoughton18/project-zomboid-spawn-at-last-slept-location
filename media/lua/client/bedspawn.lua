@@ -39,5 +39,3 @@ local function SetSpawnIfSleeping(player)
 end
 
 Events.OnPlayerUpdate.Add(SetSpawnIfSleeping)
-
--- Probably use OnPlayerUpdate instead, to autosave location whereever you sleep

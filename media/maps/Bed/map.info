@@ -1,4 +1,3 @@
-title=See media/lua/shared/Translate/EN/Bed/title.txt
-lots=Muldraugh, KY
-fixed2x=true
-description=See media/lua/shared/Translate/EN/Bed/description.txt
+title=Slept Location
+lots=Any!
+description=Spawn at Last Slept Location
