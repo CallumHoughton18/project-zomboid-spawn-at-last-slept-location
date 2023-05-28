@@ -32,9 +32,7 @@ local function SetSpawnIfSleeping(player)
         locationTable["posZ"] = zRelative
 
         local saveExists = ModData.getOrCreate("sleepspawn-spawnpoint")
-
-        print(locationTable)
-        ModData.add("sleepspawn", locationTable)
+        ModData.add("sleepspawn-spawnpoint", locationTable)
     end
 end
 
